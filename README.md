@@ -1,1 +1,3 @@
-# Python_2025.04.21
+Learning python 
+  - study python Boolean, operator, alittle study about class __len__ function in class
+  - Next study : list
